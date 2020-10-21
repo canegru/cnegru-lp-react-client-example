@@ -1,0 +1,8 @@
+@import './globals.css';
+@import './lpFloatingButton.css';
+@import './normalize.css';
+@import './tailwind.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
